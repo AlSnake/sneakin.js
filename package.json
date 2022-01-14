@@ -1,0 +1,30 @@
+{
+  "name": "sneakin",
+  "version": "0.0.1",
+  "description": "sneakin.js NODEJS AUTH LIBRARY",
+  "main": "lib/lib.js",
+  "scripts": {
+    "test": "node tests/basic.js",
+    "lint": "eslint . --fix"
+  },
+  "keywords": [
+    "sneakin.js",
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlSnake/sneakin.js.git"
+  },
+  "author": "Al Snake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlSnake/sneakin.js/issues"
+  },
+  "homepage": "https://github.com/AlSnake/sneakin.js#readme",
+  "files": [
+    "lib",
+    "COPYING"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

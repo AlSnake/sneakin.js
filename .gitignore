@@ -1,0 +1,20 @@
+# CONFIG
+.env
+config.json
+
+# Folders
+build
+.vscode
+node_modules
+logs
+
+# Others
+*.expand
+*.bin
+*.o
+*.d
+*.a
+
+# ZIP
+*.tgz
+*.tar.gz
